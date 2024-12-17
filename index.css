@@ -550,6 +550,9 @@ html {
 
 /* Large Screens */
 @media (max-width: 1200px) {
+  .hero-section{
+    background-image: none !important;
+  }
   .hero-section .container,
   .container {
     max-width: 960px;
